@@ -1,0 +1,19 @@
+# Python virtual environment
+evm/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO training output
+runs/
+wandb/
+
+# Environment variables / secrets
+.env
+
+# Model files
+*.pt
